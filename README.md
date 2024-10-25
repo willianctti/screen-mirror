@@ -62,5 +62,3 @@ Este projeto é uma aplicação web de espelhamento de tela em tempo real, desen
    ```
    npm start
    ```
-
-## Estrutura do Projeto
