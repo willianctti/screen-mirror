@@ -28,7 +28,7 @@ Este projeto é uma aplicação web de espelhamento de tela em tempo real, desen
 
 1. Clone o repositório:
    ```
-   [git clone https://github.com/seu-usuario/espelhamento-de-tela.git](https://github.com/willianctti/screen-mirror)
+   [git clone https://github.com/willianctti/screen-mirror]
    cd screen-mirror
    ```
 
